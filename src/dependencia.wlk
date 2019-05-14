@@ -39,4 +39,5 @@ class Dependencia {
 	method esGrande() {
 		return empleados >= 40 and flota.size() >= 5
 	}
+	
 }
